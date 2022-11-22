@@ -1,1 +1,1 @@
-# mercury
+# Hopium Mercury
