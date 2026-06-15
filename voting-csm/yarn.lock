@@ -16941,16 +16941,16 @@ write@1.0.3:
     mkdirp "^0.5.1"
 
 ws@^5.2.0:
-  version "5.2.3"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.3.tgz#05541053414921bc29c63bee14b8b0dd50b07b3d"
-  integrity sha512-jZArVERrMsKUatIdnLzqvcfydI85dvd/Fp1u/VOpfdDWQ4c9qWXe+VIeAbQ5FrDwciAkr+lzofXLz3Kuf26AOA==
+  version "5.2.5"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.5.tgz#41d693f6502b7a020349cfa220a6799a7f13335c"
+  integrity sha512-G0gACQIjFmv7NqpaOAXEpe9nEtRYD6ZCy2Ip/B4EzR08qEwnf/wYJoQd3cjosPdnJsHkeh0j2tzOaIBZIOC1yA==
   dependencies:
     async-limiter "~1.0.0"
 
 ws@^6.1.2, ws@^6.2.1:
-  version "6.2.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
-  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
+  version "6.2.4"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.4.tgz#d80bd7adbe495d8f4ff55d3a23a274740fcfc903"
+  integrity sha512-PNIUUyLI5YpkJZj60YBzX1o0ByQ4ovvfmq9N/Kig/PAYbVlGyz4R6G0SEWrD0O9acc0sT2+IdMBVLFv8FSi0Nw==
   dependencies:
     async-limiter "~1.0.0"
 
