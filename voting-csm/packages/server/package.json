@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@decentology/dappstarter-dapplib": "^0.1.0",
-    "@nestjs/common": "^7.5.1",
+    "@nestjs/common": "^10.4.16",
     "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^7.5.1",
     "@nestjs/swagger": "^4.4.0",
